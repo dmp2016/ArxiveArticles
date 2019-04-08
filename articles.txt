@@ -1,3 +1,6 @@
 1. THE MATHIEU DIFFERENTIAL EQUATION AND GENERALIZATIONS TO INFINITE FRACTAFOLDS. https://arxiv.org/pdf/1904.00950.pdf
 2. Second order asymptotics for Krein indefinite multipliers with multiplicity two. https://arxiv.org/pdf/1903.12403.pdf
-3. 
+3. Some remarks on the solution of linearisable second-order ordinary differential equations via point transformations
+Winter Sinkala. https://arxiv.org/abs/1904.02777 , https://arxiv.org/pdf/1904.02777.pdf
+4. Oscillatory and non oscillatory criteria for linear four dimensional hamiltonian systems. https://arxiv.org/abs/1904.02916 , https://arxiv.org/pdf/1904.02916.pdf .
+5. 
