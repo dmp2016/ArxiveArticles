@@ -6,3 +6,4 @@ Winter Sinkala. https://arxiv.org/abs/1904.02777 , https://arxiv.org/pdf/1904.02
 5. A Holling-Tanner predator-prey model with strong Allee effect https://arxiv.org/abs/1809.05854 ,  https://arxiv.org/pdf/1809.05854.pdf
 6. Autonomous first order differential equations , https://arxiv.org/abs/1904.08152
 7. Chaos in networks of coupled oscillators with multimodal natural frequency distributions. https://arxiv.org/pdf/1905.02859.pdf
+8. An Analysis of a Fishing Model with Nonlinear Harvesting Function. https://arxiv.org/abs/1905.05823
