@@ -7,3 +7,8 @@ Winter Sinkala. https://arxiv.org/abs/1904.02777 , https://arxiv.org/pdf/1904.02
 6. Autonomous first order differential equations , https://arxiv.org/abs/1904.08152
 7. Chaos in networks of coupled oscillators with multimodal natural frequency distributions. https://arxiv.org/pdf/1905.02859.pdf
 8. An Analysis of a Fishing Model with Nonlinear Harvesting Function. https://arxiv.org/abs/1905.05823
+9. Stability criteria for second order linear ordinary differential equations. https://arxiv.org/pdf/1905.06552.pdf
+11. https://arxiv.org/abs/1905.06588.ОБЩИЕ ДИВЕРГЕНТНЫЕ УСЛОВИЯ УСТОЙЧИВОСТИ ДИНАМИЧЕСКИХ СИСТЕМ.
+12. Linearization of a nonautonomous unbounded system with nonuniform contraction: A Spectral Approach https://arxiv.org/abs/1905.07319 (Прочитать обязательно)
+13. Aphids, Ants and Ladybirds: a mathematical model predicting their population dynamics https://arxiv.org/abs/1905.05244
+14. 
