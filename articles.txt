@@ -12,3 +12,5 @@ Winter Sinkala. https://arxiv.org/abs/1904.02777 , https://arxiv.org/pdf/1904.02
 12. Linearization of a nonautonomous unbounded system with nonuniform contraction: A Spectral Approach https://arxiv.org/abs/1905.07319 (Прочитать обязательно)
 13. Aphids, Ants and Ladybirds: a mathematical model predicting their population dynamics https://arxiv.org/abs/1905.05244
 14. ON CLASSICAL SOLUTIONS OF THE KDV EQUATION. https://arxiv.org/abs/1905.08372
+15. A new perspective on the Ermakov-Pinney and scalar wave equations. https://arxiv.org/abs/1905.09382
+16. Stabilization under round robin scheduling of control inputs in nonlinear systems. https://arxiv.org/abs/1905.09507
