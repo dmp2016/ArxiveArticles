@@ -14,3 +14,4 @@ Winter Sinkala. https://arxiv.org/abs/1904.02777 , https://arxiv.org/pdf/1904.02
 14. ON CLASSICAL SOLUTIONS OF THE KDV EQUATION. https://arxiv.org/abs/1905.08372
 15. A new perspective on the Ermakov-Pinney and scalar wave equations. https://arxiv.org/abs/1905.09382
 16. Stabilization under round robin scheduling of control inputs in nonlinear systems. https://arxiv.org/abs/1905.09507
+17. On the instability tongues of the Hill equation coupled with a conservative nonlinear oscillator. https://arxiv.org/abs/1905.13632
