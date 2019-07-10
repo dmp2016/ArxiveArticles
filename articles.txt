@@ -18,3 +18,4 @@ Winter Sinkala. https://arxiv.org/abs/1904.02777 , https://arxiv.org/pdf/1904.02
 18. A sharp stability criterion for single well Duffing and Duffing-like equations. https://arxiv.org/abs/1906.01298
 19. Coexistence of infinitely many large, stable, rapidly oscillating periodic solutions in time-delayed Duffing oscillators. https://arxiv.org/abs/1906.06602
 20. Synchronization of linear oscillators coupled through dynamic networks with interior nodes. https://arxiv.org/abs/1906.08572 
+21. Resonance of bounded isochronous oscillators . https://arxiv.org/abs/1906.11074
