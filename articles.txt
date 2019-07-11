@@ -19,3 +19,12 @@ Winter Sinkala. https://arxiv.org/abs/1904.02777 , https://arxiv.org/pdf/1904.02
 19. Coexistence of infinitely many large, stable, rapidly oscillating periodic solutions in time-delayed Duffing oscillators. https://arxiv.org/abs/1906.06602
 20. Synchronization of linear oscillators coupled through dynamic networks with interior nodes. https://arxiv.org/abs/1906.08572 
 21. Resonance of bounded isochronous oscillators . https://arxiv.org/abs/1906.11074
+22. A note on Lyapunov instability in Newtonian dynamics https://arxiv.org/abs/1906.11962 
+23. Adult sex ratio as an index for male strategy in primates https://arxiv.org/abs/1906.12050
+24. Neural ODEs as the Deep Limit of ResNets with constant weights https://arxiv.org/abs/1906.12183
+25. Evolution of longevity, age at last birth and sexual conflict with grandmothering https://arxiv.org/abs/1906.12047
+26. Why does women's fertility end in mid-life? Grandmothering and age at last birth https://arxiv.org/abs/1906.12048
+27. A multifactorial evaluation framework for gene regulatory network reconstruction https://arxiv.org/abs/1906.12243
+28. Special cubic perturbations of the Duffing oscillator x′′=x−x3 near the eight-loop https://arxiv.org/abs/1907.00669
+29. A proof of the Twin Prime Conjecture https://arxiv.org/abs/1903.05410
+30. 
