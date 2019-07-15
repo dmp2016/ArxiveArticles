@@ -27,4 +27,4 @@ Winter Sinkala. https://arxiv.org/abs/1904.02777 , https://arxiv.org/pdf/1904.02
 27. A multifactorial evaluation framework for gene regulatory network reconstruction https://arxiv.org/abs/1906.12243
 28. Special cubic perturbations of the Duffing oscillator x′′=x−x3 near the eight-loop https://arxiv.org/abs/1907.00669
 29. A proof of the Twin Prime Conjecture https://arxiv.org/abs/1903.05410
-30. 
+30. ON A PROOF OF THE TREE CONJECTURE FOR TRIANGLE TILING BILLIARDS. https://arxiv.org/abs/1907.01178
