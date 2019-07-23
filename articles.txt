@@ -28,3 +28,8 @@ Winter Sinkala. https://arxiv.org/abs/1904.02777 , https://arxiv.org/pdf/1904.02
 28. Special cubic perturbations of the Duffing oscillator x′′=x−x3 near the eight-loop https://arxiv.org/abs/1907.00669
 29. A proof of the Twin Prime Conjecture https://arxiv.org/abs/1903.05410
 30. ON A PROOF OF THE TREE CONJECTURE FOR TRIANGLE TILING BILLIARDS. https://arxiv.org/abs/1907.01178
+31. Rod in a train: a mechanical problem of H.Whitney, or Much Ado About Nothingю А.Шень. https://arxiv.org/abs/1907.01598
+32. A dynamical systems model of unorganised segregation in two neighbourhoods https://arxiv.org/abs/1907.01941
+33. Levitan Almost Periodic Solutions of Linear Differential Equations https://arxiv.org/abs/1907.02512
+34. "Predator and prey" model revisited -- influence of external fluxes and noise https://arxiv.org/abs/1907.03362
+35. 
