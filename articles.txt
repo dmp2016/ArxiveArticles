@@ -38,4 +38,5 @@ Winter Sinkala. https://arxiv.org/abs/1904.02777 , https://arxiv.org/pdf/1904.02
 38. Users' traffic on two-sided Internet platforms. Qualitative dynamics https://arxiv.org/abs/1908.03059
 39. Chaos on the Multi-Dimensional Cube. https://arxiv.org/abs/1908.11194 (!!!!!)
 40. Modelling election dynamics and the impact of disinformation. https://arxiv.org/abs/1904.12614
-41. 
+41. First Integrals vs Limit Cycles. https://arxiv.org/abs/1909.07845
+42. 
