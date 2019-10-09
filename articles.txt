@@ -40,3 +40,4 @@ Winter Sinkala. https://arxiv.org/abs/1904.02777 , https://arxiv.org/pdf/1904.02
 40. Modelling election dynamics and the impact of disinformation. https://arxiv.org/abs/1904.12614
 41. First Integrals vs Limit Cycles. https://arxiv.org/abs/1909.07845
 42. Nonuniform Almost Reducibility of Nonautonomous Linear Differential Equations. https://arxiv.org/abs/1712.04917
+43. Local Stability and Lyapunov Functionals for n-Dimensional Quasipolynomial Conservative Systems. https://arxiv.org/abs/1910.03309
