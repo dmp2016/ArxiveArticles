@@ -43,3 +43,5 @@ Winter Sinkala. https://arxiv.org/abs/1904.02777 , https://arxiv.org/pdf/1904.02
 43. Local Stability and Lyapunov Functionals for n-Dimensional Quasipolynomial Conservative Systems. https://arxiv.org/abs/1910.03309
 44. A dynamical approach towards Collatz conjecturehttps://arxiv.org/abs/1910.08497
 45. Time-varying vector norm and lower and upper bounds on the solutions of uniformly asymptotically stable linear systems. https://arxiv.org/abs/1911.03714 Read and Comment!!
+46. Approximation of linear controlled dynamical systems with small random noise and fast periodic sampling. https://arxiv.org/abs/2001.07057
+47. 
